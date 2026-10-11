@@ -1,0 +1,59 @@
+{
+  "slug": "km-events-kochi",
+  "name": "Km Events Kochi",
+  "shortName": "Km Events Kochi",
+  "descriptor": "Event Management",
+  "address": "V8QH+2G4, Panangad, Ernakulam, Kochi, Keralam 682506",
+  "area": "Panangad",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682506",
+  "geo": {
+    "lat": 9.887742,
+    "lng": 76.329163
+  },
+  "mapsLink": "https://maps.google.com/?cid=16048440101134648853",
+  "phone": "+91 99954 58198",
+  "whatsapp": "919995458198",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 58,
+  "reviews": [
+    {
+      "name": "Bijith Joseph",
+      "rating": 5,
+      "quote": "We had KM Events handle the decorations and stage arrangements for our son's baptism, and they did a wonderful job. We were very happy with their service and would gladly recommend them to anyone looking for event services."
+    },
+    {
+      "name": "Nasik Muhammed",
+      "rating": 5,
+      "quote": "Decoration was really elegant and done according to our interest also they are very professional. Would recommend for their unique decoration style."
+    },
+    {
+      "name": "Jithin Raj Chirakkal",
+      "rating": 5,
+      "quote": "Amazing stage decoration! Absolutely loved the design and the detailing. Made our function truly beautiful. Highly recommended"
+    },
+    {
+      "name": "Sibin Sunny #",
+      "rating": 5,
+      "quote": "We had a wonderful experience with the decoration team.They did everything as per our requirement and we are super satisfied .The sound system they provided was admittedly commendable."
+    },
+    {
+      "name": "Lazim Mohammad Zakaria007",
+      "rating": 5,
+      "quote": "I had an amazing experience with K M Events ! The team was professional, organized, and ensured every detail was perfect. They made the entire process stress-free and delivered beyond my expectations. Highly recommend them for any event!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://km-events-kochi.vercel.app"
+}
